@@ -31,4 +31,6 @@
 
 ##
 
-## That's all folks!
+
+![Snake animation](https://github.com/henridev-cpu/henridev-cpu/blob/output/github-contribution-grid-snake.svg)
+# That's all folks!
